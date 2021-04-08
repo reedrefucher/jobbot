@@ -6,3 +6,7 @@ https://dev.to/letsbsocial1/installing-pgadmin-only-after-installing-postgresql-
 
 AuotUpdate DateTime in PostgreSQL
 https://x-team.com/blog/automatic-timestamps-with-postgresql/
+
+Skills classification: 
+https://www.textkernel.com/wp-content/uploads/2020/04/Skills.png
+
